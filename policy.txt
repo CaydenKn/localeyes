@@ -1,0 +1,61 @@
+LocalEyes Privacy Policy
+
+Last updated: 10/16/2023
+
+LocalEyes ("we," "us," "our") values your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the LocalEyes app (the "App"). By using the App, you agree to the terms of this Privacy Policy.
+
+Information We Collect
+
+We may collect the following types of information:
+
+Personal Information: This includes your name, email address, and phone number, which may be required for account creation and app usage.
+
+Usage Information: We collect data about your interaction with the App, including the features you use and how you use them.
+
+Device Information: We may collect information about your device, such as your device type, operating system, and unique device identifiers.
+
+Location Information: If you enable location services, we may collect your precise location data to provide location-based services.
+
+How We Use Your Information
+
+We may use your information for the following purposes:
+
+To provide, maintain, and improve the App.
+
+To personalize your user experience, including content and recommendations.
+
+To communicate with you about the App, such as updates and support.
+
+To respond to your requests and inquiries.
+
+To enforce our Terms of Service.
+
+Data Sharing and Disclosure
+
+We may share your information with:
+
+Service Providers: We may engage third-party service providers to assist in app development, maintenance, and related services.
+
+Legal Compliance: We may share your information if required by law or in response to a legal request.
+
+Business Transfers: In the event of a merger, sale, or transfer of assets, your information may be part of the transferred assets.
+
+Your Choices
+
+You have the following choices regarding your data:
+
+Account Information: You can review and update your account information by logging into your account settings.
+
+Location Information: You can enable or disable location services through your device settings.
+
+Security
+
+We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any significant changes through the App or by other means.
+
+Contact Us
+
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us at paperlitesoftware@gmail.com.
